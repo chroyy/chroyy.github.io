@@ -14,7 +14,7 @@ My GitHub page is http://github.com/chroyy.
 
 * Lab 7
 
-    Lab 7, both parts were interesting but part 2 was better due to its complexity. I found it more difficult yet fun to handle the restrictions of parking at certain times. Trying to combine multiple time rules in my code was a challenging aspect that I overcame with my partner and overall was enjoyable. It was also the first time in used the && and "||" operators so much and I learned how to use them quite effectively.
+    Lab 7, both parts were interesting but part 2 was better due to its complexity. I found it more difficult yet fun to handle the restrictions of parking at certain times. Trying to combine multiple time rules in my code was a challenging aspect that I overcame with my partner and overall was enjoyable. It was also the first time in used the && and "or" operators so much and I learned how to use them quite effectively. (The or operator when used in Github Pages causes another column to be made so it is not being used :P)
 
 * Lab 10
 
